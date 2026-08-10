@@ -51,11 +51,17 @@ Performed in Python (pandas):
 |---|---|
 | k (clusters) | 4 |
 | Silhouette Score | 0.1979 |
-| Calinski-Harabasz Score | *[add from notebook Section 2.7]* |
-| Davies-Bouldin Score | *[add from notebook Section 2.7]* |
+| Calinski-Harabasz Score | 530.11 |
+| Davies-Bouldin Score | 1.6912 |
 
 ## Tools Used
 Python — pandas, scikit-learn (StandardScaler, KMeans, PCA), matplotlib/seaborn · Streamlit (deployment) · joblib (model persistence)
+
+## App Preview
+![Predict a Segment tab](app_predict.png)
+![View the Segment profiles tab](app_segment_profiles.png)
+![Predicted segment result popup with comparison table](app_result.png)
+
 
 ## Files
 - [`Retail_Cust_Seg.ipynb`](./Retail_Cust_Seg.ipynb) — full analysis: EDA, cleaning, clustering, evaluation
@@ -65,4 +71,4 @@ Python — pandas, scikit-learn (StandardScaler, KMeans, PCA), matplotlib/seabor
 
 ## Author
 **Adedokun Ibraheem Kolawole**
-3MTT Data Science Fellow · Brand Identity Designer, Doks Studio
+3MTT Data Science Fellow · Osun State

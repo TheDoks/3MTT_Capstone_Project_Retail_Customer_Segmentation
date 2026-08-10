@@ -195,4 +195,4 @@ with tab_explore:
     st.dataframe(profile_table, width="stretch")
 
 st.markdown("---")
-st.caption("Built with scikit-learn KMeans clustering · Doks Studio / 3MTT Data Science Capstone")
+st.caption("Built with scikit-learn KMeans clustering · Adedokun Ibraheem Adio / 3MTT Data Science Capstone")
