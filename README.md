@@ -66,7 +66,7 @@ Python — pandas, scikit-learn (StandardScaler, KMeans, PCA), matplotlib/seabor
 ## Files
 - [`Retail_Cust_Seg.ipynb`](./Retail_Cust_Seg.ipynb) — full analysis: EDA, cleaning, clustering, evaluation
 - [`app.py`](./app.py) — Streamlit app for live segment prediction
-- **Live App:** [Add your Render URL here]
+- **Live App:** https://retail-customer-segmentation-r8y9.onrender.com
 - **Demo Video:** [Add your video link here]
 
 ## Author
